@@ -1,0 +1,3 @@
+start "C:\Program Files\Google\Chrome\Application\chrome.exe" https://docs.google.com/spreadsheets/d/1jl-ZBgWxDLOphJrt0LNpHP_89_3Ra0m1coXEhRUo9A8/edit?gid=1572165244#gid=1572165244
+start "C:\Program Files\Google\Chrome\Application\chrome.exe" https://github.com/Jsports-Technologies/Jacfit_Client/commits/JSG08_Golf
+start "C:\Program Files\Google\Chrome\Application\chrome.exe" https://docs.google.com/spreadsheets/d/1eGWSrrcNmyEwnCSLH8jwE-DM2dOB5_IQAoYvtFbhwgk/edit?gid=1924881253#gid=1924881253
